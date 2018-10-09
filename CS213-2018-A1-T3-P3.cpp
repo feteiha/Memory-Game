@@ -42,12 +42,13 @@ for (int i=0; i<16; i++){
         }
     }
 }
-for (int i=0; i < 4; i++){// prints the matrix without astrics
+
+/*for (int i=0; i < 4; i++){// prints the matrix without astrics
         for (int j = 0; j < 4; j++){
     cout << gamee[i][j] ;
 }
 cout << endl;}
-
+*/
 
 while (endd != 0){ //winning condition (repeats until endd is 0)
         cout << "Current Matrix is: " <<endl;
